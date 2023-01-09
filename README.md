@@ -1,1 +1,2 @@
 # adu-automatic-survey-filling
+- Not ilanları sonrası not görüntüleme için anket doldurmak gerekiyor. Ankette ki terchlerinizin tamamı "çok iyi" ise bu chrome eklentisini kurup tek tıklama ile anketin tamamını tamamlayabilirsiniz.
